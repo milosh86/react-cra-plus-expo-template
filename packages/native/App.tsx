@@ -1,3 +1,4 @@
+import 'node-libs-react-native/globals';
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 import someFn from "common/someFn";
