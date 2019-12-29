@@ -10,7 +10,7 @@ export default function App() {
     <View style={styles.container}>
       <Text>Open up App.tsx to start working on your app!</Text>
       <Text>{someFn(10,10)}</Text>
-      <Text>{fn2('there !')}</Text>
+  <Text>{fn2('there !')}</Text>
     </View>
   );
 }
